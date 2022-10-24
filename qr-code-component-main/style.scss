@@ -1,0 +1,15 @@
+body {
+    background-color: hsl(212, 45%, 89%);
+}
+
+.card{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+&__banner {
+    img{
+        width: 100%;
+    }
+}
